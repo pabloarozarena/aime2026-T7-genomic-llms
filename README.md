@@ -28,6 +28,14 @@ The notebooks show how to:
 5. evaluate whether embeddings capture biological signals such as GC content and exon/intron separation;
 6. use a SARS-CoV-2-adapted MiniBERT model to prioritize Omicron Spike mutations through a delta log-likelihood score.
 
+### Open Notebooks in Colab
+
+Notebook 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pabloarozarena/aime2026-T7-genomic-llms/blob/main/notebooks/notebook1.ipynb)
+
+Notebook 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pabloarozarena/aime2026-T7-genomic-llms/blob/main/notebooks/notebook2.ipynb)
+
+Notebook 3: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pabloarozarena/aime2026-T7-genomic-llms/blob/main/notebooks/notebook3.ipynb)
+
 ---
 
 ## Repository structure
